@@ -1,1 +1,81 @@
 [2023-11-07 18:14:12,448: INFO: main: Welcome to our custom logging1]
+[2023-11-07 20:08:03,277: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-11-07 20:08:03,279: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-11-07 20:09:36,093: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-11-07 20:09:36,100: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-11-07 20:09:36,103: INFO: common: yaml file: schema.yaml loaded successfully]
+[2023-11-07 20:09:36,104: INFO: common: created directory at: artifacts]
+[2023-11-07 20:09:36,108: INFO: common: created directory at: artifacts/data_ingestion]
+[2023-11-07 20:09:37,580: INFO: 2209473208: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 23329
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "c69888a4ae59bc5a893392785a938ccd4937981c06ba8a9d6a21aa52b4ab5b6e"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: F03A:7C1D:106D16C:141C649:654ADFD2
+Accept-Ranges: bytes
+Date: Wed, 08 Nov 2023 01:09:38 GMT
+Via: 1.1 varnish
+X-Served-By: cache-pdk-kpdk1780114-PDK
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1699405779.648769,VS0,VE114
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 64e0d160ec540500bb58e29e6285f9d64573548e
+Expires: Wed, 08 Nov 2023 01:14:38 GMT
+Source-Age: 0
+
+]
+[2023-11-07 20:41:01,522: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2023-11-07 20:41:01,529: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-11-07 20:41:01,529: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-11-07 20:41:01,530: INFO: common: yaml file: schema.yaml loaded successfully]
+[2023-11-07 20:41:01,530: INFO: common: created directory at: artifacts]
+[2023-11-07 20:41:01,530: INFO: common: created directory at: artifacts/data_ingestion]
+[2023-11-07 20:41:01,530: INFO: data_ingestion: file already exists of size: ~ 23 KB]
+[2023-11-07 20:41:01,532: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2023-11-07 20:43:25,660: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2023-11-07 20:43:25,662: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-11-07 20:43:25,662: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-11-07 20:43:25,666: INFO: common: yaml file: schema.yaml loaded successfully]
+[2023-11-07 20:43:25,666: INFO: common: created directory at: artifacts]
+[2023-11-07 20:43:25,667: INFO: common: created directory at: artifacts/data_ingestion]
+[2023-11-07 20:43:26,865: INFO: data_ingestion: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 23329
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "c69888a4ae59bc5a893392785a938ccd4937981c06ba8a9d6a21aa52b4ab5b6e"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: F03A:7C1D:106D16C:141C649:654ADFD2
+Accept-Ranges: bytes
+Date: Wed, 08 Nov 2023 01:43:28 GMT
+Via: 1.1 varnish
+X-Served-By: cache-pdk-kpdk1780101-PDK
+X-Cache: HIT
+X-Cache-Hits: 1
+X-Timer: S1699407808.028969,VS0,VE87
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 3c5d21b5a1c8aa08ac44e4ecfcf1aac516f012ed
+Expires: Wed, 08 Nov 2023 01:48:28 GMT
+Source-Age: 0
+
+]
+[2023-11-07 20:43:26,880: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
